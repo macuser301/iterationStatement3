@@ -1,0 +1,16 @@
+C:\Users\Robz PC\repos\IterationsStatement3\IterationsStatement3\bin\Debug\net5.0\IterationsStatement3.exe
+C:\Users\Robz PC\repos\IterationsStatement3\IterationsStatement3\bin\Debug\net5.0\IterationsStatement3.deps.json
+C:\Users\Robz PC\repos\IterationsStatement3\IterationsStatement3\bin\Debug\net5.0\IterationsStatement3.runtimeconfig.json
+C:\Users\Robz PC\repos\IterationsStatement3\IterationsStatement3\bin\Debug\net5.0\IterationsStatement3.runtimeconfig.dev.json
+C:\Users\Robz PC\repos\IterationsStatement3\IterationsStatement3\bin\Debug\net5.0\IterationsStatement3.dll
+C:\Users\Robz PC\repos\IterationsStatement3\IterationsStatement3\bin\Debug\net5.0\ref\IterationsStatement3.dll
+C:\Users\Robz PC\repos\IterationsStatement3\IterationsStatement3\bin\Debug\net5.0\IterationsStatement3.pdb
+C:\Users\Robz PC\repos\IterationsStatement3\IterationsStatement3\obj\Debug\net5.0\IterationsStatement3.csproj.AssemblyReference.cache
+C:\Users\Robz PC\repos\IterationsStatement3\IterationsStatement3\obj\Debug\net5.0\IterationsStatement3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robz PC\repos\IterationsStatement3\IterationsStatement3\obj\Debug\net5.0\IterationsStatement3.AssemblyInfoInputs.cache
+C:\Users\Robz PC\repos\IterationsStatement3\IterationsStatement3\obj\Debug\net5.0\IterationsStatement3.AssemblyInfo.cs
+C:\Users\Robz PC\repos\IterationsStatement3\IterationsStatement3\obj\Debug\net5.0\IterationsStatement3.csproj.CoreCompileInputs.cache
+C:\Users\Robz PC\repos\IterationsStatement3\IterationsStatement3\obj\Debug\net5.0\IterationsStatement3.dll
+C:\Users\Robz PC\repos\IterationsStatement3\IterationsStatement3\obj\Debug\net5.0\ref\IterationsStatement3.dll
+C:\Users\Robz PC\repos\IterationsStatement3\IterationsStatement3\obj\Debug\net5.0\IterationsStatement3.pdb
+C:\Users\Robz PC\repos\IterationsStatement3\IterationsStatement3\obj\Debug\net5.0\IterationsStatement3.genruntimeconfig.cache
